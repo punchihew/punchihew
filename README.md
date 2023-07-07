@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navishka punchihewa</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Navishka+Punchihewa;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p><br>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Navishka+Punchihewa)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="punchihewa" /> </p>
 
