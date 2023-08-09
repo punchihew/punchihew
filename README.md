@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punchihewa&show_icons=true&locale=en" alt="punchihewa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punchihewa&" alt="punchihewa" /></p>
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
