@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Navishka Punchihewa</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lakshan+Rashmika;Competitive+Programmer;IJSE+GDSE+Student;Java%20%7C%20Algorithms%20%7C%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
