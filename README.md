@@ -3,39 +3,33 @@
 
 <h1 align="center">Hi 👋, I'm Navishka Punchihewa</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lakshan+Rashmika;Competitive+Programmer;IJSE+GDSE+Student;Java%20%7C%20Algorithms%20%7C%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="punchihewa" /> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Navishka punchihewa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navishka.mr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Navishka Punchihewa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Navii.iiiii) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punchihewa" alt="punchihewa" /></a> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=punchihew&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=punchihew&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=punchihew&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=punchihew&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **react Native**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **I am Funny**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=punchihew&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/navishka punchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="navishka punchihewa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/navishka punchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navishka punchihewa" height="30" width="40" /></a>
-<a href="https://instagram.com/navishka.mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navishka.mr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/navishka punchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navishka punchihewa" height="30" width="40" /></a>
-<a href="https://discord.gg/navishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="navishka" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=punchihew&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punchihewa&show_icons=true&locale=en&layout=compact" alt="punchihewa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punchihewa&show_icons=true&locale=en" alt="punchihewa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punchihewa&" alt="punchihewa" /></p>
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
