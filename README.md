@@ -29,6 +29,7 @@
 
 # 📊 GitHub Stats:
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
 
 <div>
   <div align="center">
@@ -46,6 +47,19 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
 
+
+#🔝 Top Contributed Repo:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punchihew&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=punchihew&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punchihew&theme=2077)<br/>
+
+
+
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=punchihew&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -55,11 +69,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=punchihew&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=punchihew&icon=0&color=0)](https://visitcount.itsvg.in)
+![footer](https://capsule-render.vercel.app/api?type=waving&text=Thank%You%!&fontSize=40&animation=twinkling&color=timeGradient&height=80&section=footer&reversal=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
