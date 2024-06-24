@@ -50,6 +50,17 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
 
 
+<div>
+<div align="center">
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punchihew&theme=redical)](https://github.com/punchihew)  
+
+</div>
+</div>
+
+
+
+
 #🔝 Top Contributed Repo:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punchihew&theme=2077)
